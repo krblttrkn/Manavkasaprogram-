@@ -44,4 +44,4 @@ public class manavKasa {
 ```
 # Patika Profilim :
 ***
-<a href="https://app.patika.dev/krblttrkn">Patika Linkim</a>
+<a href="https://academy.patika.dev/profile">Patika Linkim</a>
